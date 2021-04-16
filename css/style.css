@@ -1,3 +1,13 @@
 h1{
+    color:rgb(3, 3, 53);
+}
+h2{
+    color:slateblue;
+}
+p{
     color:blue;
+    font-style: italic;
+}
+body{
+    background-color:skyblue;text-align: center;
 }
